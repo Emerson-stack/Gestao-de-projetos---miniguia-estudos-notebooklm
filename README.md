@@ -3,7 +3,7 @@ NotebookLM - Guia de criação de um NotebookLM especializado na gestão de proj
 
 
 1. Contexto e Objetivos:
-  O objetivo da criação desse notebook é para ter um guia atualizado e sempre buscar por novos conceitos e aprimoramentos na gestão de projetos.
+  O objetivo da criação desse notebook é para ter um guia atualizado e sempre buscar por novos conceitos e aprimoramentos na gestão de projetos, pois vivemos num mundo onde a competição é global e por isso é urgente a necessidade de eficácia e reducão dos custos através de uma gestão profissional dos projetos.
 
 
 2. Curadoria de Fontes:
