@@ -27,35 +27,35 @@ O sucesso exige trocas balanceadas entre esses pilares para garantir a qualidade
 
 
 - Glossário com os principais conceitos aprendidos:
-Projeto: Um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo, possuindo início e fim bem definidos.
+  Projeto: Um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo, possuindo início e fim bem definidos.
 
-Escopo: A soma de todos os produtos, serviços e resultados a serem fornecidos por um projeto; define exatamente o que está e o que não está incluso no trabalho.
+  Escopo: A soma de todos os produtos, serviços e resultados a serem fornecidos por um projeto; define exatamente o que está e o que não está incluso   no trabalho.
 
-Tempo: A dimensão que mede a duração total do projeto, englobando o período necessário para planejar, executar e concluir todas as atividades.
+  Tempo: A dimensão que mede a duração total do projeto, englobando o período necessário para planejar, executar e concluir todas as atividades.
 
-Cronograma: A representação visual e temporal das atividades do projeto, contendo as datas de início e término planejadas, sequenciamento e dependências de cada tarefa.
+  Cronograma: A representação visual e temporal das atividades do projeto, contendo as datas de início e término planejadas, sequenciamento e           dependências de cada tarefa.
 
-Custo: O montante financeiro total estimado ou gasto para mobilizar os recursos (pessoas, equipamentos, materiais) necessários para a conclusão do projeto.
+  Custo: O montante financeiro total estimado ou gasto para mobilizar os recursos (pessoas, equipamentos, materiais) necessários para a conclusão do    projeto.
 
-Orçamento: O valor financeiro total aprovado formalmente para a execução do projeto, geralmente detalhado por fases, categorias ou pacotes de trabalho.
+  Orçamento: O valor financeiro total aprovado formalmente para a execução do projeto, geralmente detalhado por fases, categorias ou pacotes de         trabalho.
 
-Stakeholder (Parte Interessada): Qualquer indivíduo, grupo ou organização que possa afetar, ser afetado ou se perceber afetado por uma decisão, atividade ou resultado do projeto.
+  Stakeholder (Parte Interessada): Qualquer indivíduo, grupo ou organização que possa afetar, ser afetado ou se perceber afetado por uma decisão,       atividade ou resultado do projeto.
 
-Linha de Base (Baseline): A versão aprovada de um plano de projeto (de escopo, tempo ou custo) usada como ponto de partida oficial para medir e comparar o desempenho real da execução.
+  Linha de Base (Baseline): A versão aprovada de um plano de projeto (de escopo, tempo ou custo) usada como ponto de partida oficial para medir e       comparar o desempenho real da execução.
 
-EAP / WBS (Estrutura Analítica do Projeto): A decomposição hierárquica e visual do escopo total do trabalho em partes menores e mais gerenciáveis, chamadas de pacotes de trabalho.
+  EAP / WBS (Estrutura Analítica do Projeto): A decomposição hierárquica e visual do escopo total do trabalho em partes menores e mais gerenciáveis,    chamadas de pacotes de trabalho.
 
-Marco (Milestone): Um ponto ou evento significativo no cronograma do projeto, com duração zero, utilizado para marcar a entrega de uma grande fase ou conquista.
+  Marco (Milestone): Um ponto ou evento significativo no cronograma do projeto, com duração zero, utilizado para marcar a entrega de uma grande fase    ou conquista.
 
-Caminho Crítico (Critical Path): A sequência de atividades dependentes que determina a menor duração possível para a conclusão do projeto. Qualquer atraso em uma atividade do caminho crítico atrasará o projeto todo.
+  Caminho Crítico (Critical Path): A sequência de atividades dependentes que determina a menor duração possível para a conclusão do projeto. Qualquer   atraso em uma atividade do caminho crítico atrasará o projeto todo.
 
-Risco: Um evento ou condição incerta que, se ocorrer, terá um efeito positivo (oportunidade) ou negativo (ameaça) em pelo menos um dos objetivos do projeto.
+  Risco: Um evento ou condição incerta que, se ocorrer, terá um efeito positivo (oportunidade) ou negativo (ameaça) em pelo menos um dos objetivos do   projeto.
 
-Entregável (Deliverable): Qualquer produto, resultado ou capacidade única e verificável para executar um serviço que deve ser produzido para concluir um processo, fase ou projeto.
+  Entregável (Deliverable): Qualquer produto, resultado ou capacidade única e verificável para executar um serviço que deve ser produzido para          concluir um processo, fase ou projeto.
 
-Termo de Abertura do Projeto (TAP / Project Charter): O documento oficial emitido pelo patrocinador que autoriza formalmente a existência do projeto e confere autoridade ao gerente do projeto para aplicar os recursos organizacionais.
+  Termo de Abertura do Projeto (TAP / Project Charter): O documento oficial emitido pelo patrocinador que autoriza formalmente a existência do          projeto e confere autoridade ao gerente do projeto para aplicar os recursos organizacionais.
 
-Sponsor (Patrocinador): A pessoa ou grupo que fornece os recursos financeiros, apoio político e liderança executiva para que o projeto aconteça, sendo o principal responsável pelo seu sucesso comercial ou estratégico.
+  Sponsor (Patrocinador): A pessoa ou grupo que fornece os recursos financeiros, apoio político e liderança executiva para que o projeto aconteça,      sendo o principal responsável pelo seu sucesso comercial ou estratégico.
 
 
 - Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
