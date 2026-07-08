@@ -21,7 +21,11 @@ NotebookLM - Guia de criação de um NotebookLM especializado na gestão de proj
    O problema na utilizaçãoo desse prompt foi que ele gerou um texto mas não indicou os links, pois como eu não espeficiquei que eu precisava de cinco links (fontes) com fontes confiáveis, ele gerou uum resultado diferente do que eu buscava.
 
 
-4. Miniguia de Estudo (Entrega Final):
+   Para resolver a questão, eu utilizei o prompt abaixo:
+   Eu preciso de 3 a 5 fontes confiáveis (links) de texto que tratem do tema gestão de projetos e de todos os seus fundamentos e princípios para         criação de um notebookLM
+
+
+5. Miniguia de Estudo (Entrega Final):
 - Resumos estruturados do assunto:
   A gestão de projetos equilibra a tríplice restrição de escopo, tempo e custo para atingir objetivos estratégicos com eficiência.
 O sucesso exige trocas balanceadas entre esses pilares para garantir a qualidade final e a entrega de valor real. Princípios do PMBOK orientam uma visão holística e liderança responsável, integrando agora a sustentabilidade em todas as áreas. O engajamento de stakeholders e a gestão de riscos mitigam complexidades, evitando desperdícios e o "empreender no escuro". Essa estrutura gera adaptabilidade e resiliência, assegurando a competitividade e o crescimento saudável da organização.
