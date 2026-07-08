@@ -46,7 +46,7 @@ O sucesso exige trocas balanceadas entre esses pilares para garantir a qualidade
 
   Orçamento: O valor financeiro total aprovado formalmente para a execução do projeto, geralmente detalhado por fases, categorias ou pacotes de         trabalho.
 
-  Stakeholder (Parte Interessada): Qualquer indivíduo, grupo ou organização que possa afetar, ser afetado ou se perceber afetado por uma decisão,       atividade ou resultado do projeto.
+  Stakeholder  (Parte Interessada): Qualquer indivíduo, grupo ou organização que possa afetar, ser afetado ou se perceber afetado por uma decisão,       atividade ou resultado do projeto.
 
   Linha de Base (Baseline): A versão aprovada de um plano de projeto (de escopo, tempo ou custo) usada como ponto de partida oficial para medir e       comparar o desempenho real da execução.
 
