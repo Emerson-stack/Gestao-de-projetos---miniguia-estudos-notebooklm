@@ -16,7 +16,7 @@ NotebookLM - Guia de criação de um NotebookLM especializado na gestão de proj
 
 3. Engenharia de Prompts e "Cicatrizes"
    
-   Prompt utlizado:Eu preciso de 3 a 5 fontes confiáveis de texto que tratem do tema gestão de projetos e de todos os seus fundamentos e princípios para criação de um notebookLM.
+   Prompt utlizado: Eu preciso de 3 a 5 fontes confiáveis de texto que tratem do tema gestão de projetos e de todos os seus fundamentos e princípios para criação de um notebookLM.
    O prompt acima foi utilizado na geração das fontes. Embora eu seja especialista na gestão de projetos e porfólios de projetos, eu buscar as fontes a partir de um chat de IA (Google Gemini), pois há um ganho de tempo, mas isso pode ser feito no buscador do google.
    O problema na utilizaçãoo desse prompt foi que ele gerou um texto mas não indicou os links, pois como eu não espeficiquei que eu precisava de cinco links (fontes) com fontes confiáveis, ele gerou uum resultado diferente do que eu buscava.
 
