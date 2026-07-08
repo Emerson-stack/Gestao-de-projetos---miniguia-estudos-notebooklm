@@ -23,4 +23,6 @@ O sucesso exige trocas balanceadas entre esses pilares para garantir a qualidade
 
 - Glossário com os principais conceitos aprendidos:
 
+
+
 - Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
