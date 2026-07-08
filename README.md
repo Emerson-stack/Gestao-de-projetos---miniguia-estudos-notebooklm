@@ -18,6 +18,8 @@ NotebookLM - Guia de criação de um NotebookLM especializado na gestão de proj
 
 5. Miniguia de Estudo (Entrega Final):
 - Resumos estruturados do assunto:
+  A gestão de projetos equilibra a tríplice restrição de escopo, tempo e custo para atingir objetivos estratégicos com eficiência.
+O sucesso exige trocas balanceadas entre esses pilares para garantir a qualidade final e a entrega de valor real. Princípios do PMBOK orientam uma visão holística e liderança responsável, integrando agora a sustentabilidade em todas as áreas. O engajamento de stakeholders e a gestão de riscos mitigam complexidades, evitando desperdícios e o "empreender no escuro". Essa estrutura gera adaptabilidade e resiliência, assegurando a competitividade e o crescimento saudável da organização
 
 - Glossário com os principais conceitos aprendidos:
 
