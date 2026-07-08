@@ -62,9 +62,9 @@ O sucesso exige trocas balanceadas entre esses pilares para garantir a qualidade
 
 - Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
 
-Prompt 1:
-Com base no tema gestão de projetos, me traga fontes confiáveis com os respectivos links que abordam estudos sobre novas metodoloigas ou abordagens eficientes que possam impactar na melhoria da gestão de projetos.
+  Prompt 1:
+  Com base no tema gestão de projetos, me traga fontes confiáveis com os respectivos links que abordam estudos sobre novas metodoloigas ou abordagens    eficientes que possam impactar na melhoria da gestão de projetos.
 
-Prompt 2: 
-Com base no tema gestão de projetos, me traga fontes confiáveis com os respectivos links que abordam estudos sobre novas metodoloigas ou abordagens eficientes que possam impactar na melhoria da gestão de projetos e q.ue sejam consideradas inovações ou estado da arte na gestão de projetos.
+  Prompt 2: 
+  Com base no tema gestão de projetos, me traga fontes confiáveis com os respectivos links que abordam estudos sobre novas metodoloigas ou abordagens    eficientes que possam impactar na melhoria da gestão de projetos e q.ue sejam consideradas inovações ou estado da arte na gestão de projetos.
 
